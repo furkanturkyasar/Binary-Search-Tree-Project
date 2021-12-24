@@ -11,8 +11,6 @@ The Last Project of Module
 
 [0,1,2,3,4,5,6,7,8,9] Root value:5 Minimum value:0 Maximum value:9
 
-Then                5 
-                3       7
-              2   4   6   8
-             1              9
-            0         
+Then bigger numbers than root on right side and smaller numbers on the left side.
+
+
